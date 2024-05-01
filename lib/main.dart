@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: const Text("Flutter App"),
-          backgroundColor: const Color.fromARGB(255, 241, 231, 38),
+          backgroundColor: const Color.fromARGB(255, 250, 231, 38),
         ),
         body: const Icon(Icons.accessibility_rounded),
       ),
